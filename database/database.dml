@@ -1,0 +1,4 @@
+INSERT INTO HOTELS(HOTEL_NAME, HOTEL_CITY, HOTEL_STATE, HOTEL_ZIP, HOTEL_CONTACT) VALUES
+('Hotel Taj', 'Mumbai', 'Maharastra', 78847, 234652356),
+('Hotel Ganga', 'Chennai', 'Tamil Nadu', 603103, 9876473823),
+('Hotel V', 'NYC', 'Washington DC', 94949, 400050000);
